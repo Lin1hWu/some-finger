@@ -1,0 +1,142 @@
+{
+    "fingerprint": [
+        {
+            "cms": "令狐",
+            "fofa-query": "app=\"linghu\"",
+            "hunter-query": "app.name=\"linghu\"",
+            "quake-query": "app:\"linghu\""
+        },
+        {
+            "cms": "万户oa",
+            "fofa-query": "app=\"万户网络-ezOFFICE\"",
+            "hunter-query": "app.name=\"万户 Ezoffice OA\"",
+            "quake-query": "app:\"万户ezOFFICE协同管理平台\""
+        },
+        {
+            "cms": "蓝凌oa",
+            "fofa-query": "app=\"Landray-OA系统\"",
+            "hunter-query": "app.name=\"Landray 蓝凌OA\"",
+            "quake-query": "favicon:\"302464c3f6207d57240649926cfc7bd4\""
+        },
+        {
+            "cms": "蓝凌eis",
+            "fofa-query": "body=\"/Global/Pages/CheckPage/IKey.aspx\"",
+            "hunter-query": "web.body=\"/Global/Pages/CheckPage/IKey.aspx\"",
+            "quake-query": "body:\"/Global/Pages/CheckPage/IKey.aspx\""
+        },
+        {
+            "cms": "红帆oa",
+            "fofa-query": "app=\"红帆-ioffice\"",
+            "hunter-query": "app.name==\"红帆 iOffice\"",
+            "quake-query": "app:\"ioffice红帆OA协同办公系统\""
+        },
+        {
+            "cms": "金和oa",
+            "fofa-query": "app=\"Jinher-OA\"",
+            "hunter-query": "app.name=\"金和 OA\"",
+            "quake-query": "app:\"金和OA\""
+        },
+        {
+            "cms": "金蝶cloud",
+            "fofa-query": "app=\"Kingdee-K3-cloud\"",
+            "hunter-query": "app.name=\"Kingdee 金蝶云星空\"",
+            "quake-query": "app:\"金蝶云星空\""
+        },
+        {
+            "cms": "金蝶eas",
+            "fofa-query": "app=\"Kingdee-EAS\"",
+            "hunter-query": "web.body=\"/eassso/images/\"",
+            "quake-query": "app:\"金蝶-EAS\""
+        },
+        {
+            "cms": "金蝶Apusic ",
+            "fofa-query": "body=\"Apusic应用服务器\"",
+            "hunter-query": "app.name=\"Apusic 金蝶天燕 Server\"",
+            "quake-query": "app:\"金蝶Apusic中间件\""
+        },
+        {
+            "cms": "华天动力",
+            "fofa-query": "app=\"华天动力-OA8000\"",
+            "hunter-query": "app.name=\"华天软件 OA\"",
+            "quake-query": "app:\"华天动力OA\""
+        },
+        {
+            "cms": "极限oa",
+            "fofa-query": "icon_hash=\"1967132225\" || body=\"/images/sohuu.ico\"",
+            "hunter-query": "web.icon==\"d8028456021988373d7eca8b7ec28f09\"",
+            "quake-query": "app:\"极限OA办公系统\""
+        },
+        {
+            "cms": "致翔oa",
+            "fofa-query": "app=\"致翔软件-致翔OA\"",
+            "hunter-query": "web.body=\"/layer_red/layer.js\"",
+            "quake-query": "app:\"致翔OA\""
+        },
+        {
+            "cms": "启莱oa",
+            "fofa-query": "app=\"启莱OA\"",
+            "hunter-query": "",
+            "quake-query": "app:\"启莱OA\""
+        },
+        {
+            "cms": "新点oa",
+            "fofa-query": "body=\"新点助手工具包.exe\"",
+            "hunter-query": "web.body=\"新点助手工具包.exe\"",
+            "quake-query": "body:\"新点助手工具包.exe\""
+        },
+        {
+            "cms": "jumpserver",
+            "fofa-query": "app=\"JumpServer-堡垒机\"",
+            "hunter-query": "app.name==\"JumpServer\"",
+            "quake-query": "app:\"Jumpserver堡垒机\""
+        },
+        {
+            "cms": "宏景",
+            "fofa-query": "icon_hash=\"947874108\"",
+            "hunter-query": "web.icon==\"435b5d431ded7d0776dfa621c9c63385\"",
+            "quake-query": "(favicon:\"435b5d431ded7d0776dfa621c9c63385\")"
+        },
+        {
+            "cms": "畅捷通T+",
+            "fofa-query": "app=\"畅捷通-TPlus\"",
+            "hunter-query": "app.name==\"畅捷通 T+\"",
+            "quake-query": "app:\"畅捷通标准版\""
+        },
+        {
+            "cms": "亿赛通电子文档",
+            "fofa-query": "app=\"亿赛通-电子文档安全管理系统\"",
+            "hunter-query": "app.name==\"ESAFENET 亿赛通文档安全管理系统\"",
+            "quake-query": "app:\"亿赛通电子文档安全管理系统\""
+        },
+        {
+            "cms": "大华智慧园区",
+            "fofa-query": "app=\"dahua-智慧园区综合管理平台\"",
+            "hunter-query": "app.name=\"Dahua 大华 智慧园区管理平台\"",
+            "quake-query": "app:\"dahua-WP\""
+        },
+        {
+            "cms": "广联达",
+            "fofa-query": "fid=\"/yV4r5PdARKT4jaqLjJYqw==\"",
+            "hunter-query": "app.name=\"广联达 OA\"",
+            "quake-query": "body:\"/Services/Identification/Server/\""
+        },
+        {
+            "cms": "深信服上网优化",
+            "fofa-query": "title=\"SANGFOR上网优化管理\"",
+            "hunter-query": "web.title==\"SANGFOR上网优化管理\"",
+            "quake-query": "title:\"SANGFOR上网优化管理\""
+        },
+        {
+            "cms": "用友时空",
+            "fofa-query": "app=\"用友-时空KSOA\"",
+            "hunter-query": "web.title=\"企业信息系统门户\"",
+            "quake-query": "title=\"企业信息系统门户\""
+        },
+        {
+            "cms": "海康威视综合安防",
+            "fofa-query": "app=\"HIKVISION-综合安防管理平台\"",
+            "hunter-query": "app.name=\"Hikvision 海康威视 iSecure Center\"",
+            "quake-query": "app:\"海康威视-综合安防管理平台\""
+        }
+    ]
+}
